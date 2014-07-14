@@ -1,0 +1,4 @@
+rc
+==
+
+Collection of configurations
