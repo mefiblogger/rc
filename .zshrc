@@ -106,3 +106,7 @@ function u {
     echo
     echo "$fg[yellow] Everything is going extremely well. :) $fg[white]"
 }
+
+# fish-like autoload
+autoload predict-on
+predict-on
