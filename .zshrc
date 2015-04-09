@@ -4,8 +4,6 @@ export ZSH=$HOME/.oh-my-zsh
 # oh-my-zsh theme
 ZSH_THEME="steeef"
 
-alias cica="echo $fg[red] yo"
-
 # apache aliases
 alias apache="sudo /usr/local/bin/apachectl"
 alias apache-restart="sudo /usr/local/bin/apachectl -k restart"
