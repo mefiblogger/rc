@@ -1,3 +1,7 @@
+# This file is saved on GitHub
+# Don't forget to check out before adjusting:
+# https://github.com/mefiblogger/rc/edit/master/.zshrc
+
 # oh-my-zsh home
 export ZSH=$HOME/.oh-my-zsh
 
